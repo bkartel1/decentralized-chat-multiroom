@@ -1,5 +1,10 @@
 pragma solidity ^0.4.17;
 
+/*
+Autor: Javier Guajardo
+Twitter: @EthereumChile
+Website: https://ethereumchile.cl
+*/
 
 contract Chat {
 
